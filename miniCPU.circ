@@ -987,7 +987,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="RY-ADDRESS"/>
     </comp>
     <comp lib="6" loc="(3193,426)" name="Text">
-      <a name="text" val="MOI - 1"/>
+      <a name="text" val="MVI - 1"/>
       <a name="font" val="SansSerif bold 20"/>
     </comp>
     <comp lib="5" loc="(3040,920)" name="Hex Digit Display"/>
